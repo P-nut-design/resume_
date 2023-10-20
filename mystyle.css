@@ -5,6 +5,7 @@ body {
 
 center {
     font-size: 100px;
+    font-weight: 800;
 }
 
 img {
@@ -17,6 +18,10 @@ img {
    border: 5px white solid;
    padding: 10px 30px;
    padding-bottom: 30px;
+}
+
+#name {
+    font-size: 26px;
 }
 
 a {
