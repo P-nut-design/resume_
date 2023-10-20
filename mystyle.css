@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+center {
+    font-size: 100px;
+}
+
+img {
+    width: 250;
+    height: auto;
+    margin: 20px;
+}
+
+.container {
+   border: 5px white solid;
+   padding: 10px 30px;
+   padding-bottom: 30px;
+}
+
+a {
+    background: white;
+}
